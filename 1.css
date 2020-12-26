@@ -1,0 +1,14 @@
+BODY {
+    background: url(8.jpg)}
+h1 {color:#191970}
+h2 {color:#00008B}
+h3 {color:#000080}
+p {color:#3070F8};
+a {color:#6495F0}
+a:visited {color:#3070F8}
+li {color:#3070F8}
+th {color:#000080}
+tr {color:#3070F8}
+.hidden {
+ display: none;
+}
